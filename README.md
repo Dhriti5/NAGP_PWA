@@ -5,10 +5,7 @@ A highly scalable, Progressive Web Application foundation,boilerplate, with the 
 #### Demo: [https://boiling-garden-46399.herokuapp.com](https://boiling-garden-46399.herokuapp.com)
 
 ### Quick Start
-Clone the repository:
-```bash
-git clone https://github.com/shubham49/react-pwa.git && cd react-pwa 
-```
+
 
 Install the dependencies:
 ```bash
